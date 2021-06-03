@@ -1,5 +1,7 @@
 # Digital Clock Adjust
 
+![Project's Screenshot](https://raw.githubusercontent.com/alexmarinmendez/js-basics-digital-clock-adjust/main/js-basics-digital-clock-adjust-screen.png)
+
 Este proyecto consta de 3 botones que acceden al DOM para cambiar los valores de la hora y minutos de un reloj digital.
 
 Inspirado en el proyecto **Counter** de [John Smilga](https://github.com/john-smilga).
